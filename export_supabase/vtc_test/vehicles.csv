@@ -1,0 +1,3 @@
+id,driver_id,make,model,year,license_plate,color,insurance_expiry
+1,2,Toyota,Corolla,2018,ABC123,Blue,2024-05-01
+2,4,Honda,Civic,2020,XYZ789,Red,2025-08-15
