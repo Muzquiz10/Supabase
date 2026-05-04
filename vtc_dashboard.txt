@@ -1,0 +1,205 @@
+1. Executive Summary
+Objetivo: visión global del negocio en un vistazo.
+
+KPIs clave
+Total rides
+
+Total revenue
+
+Revenue per ride
+
+Nº de clientes activos
+
+Nº de drivers activos
+
+Rating promedio de drivers
+
+% rides completados vs cancelados
+
+% rides con promoción
+
+Visualizaciones recomendadas
+Serie temporal de rides por mes
+
+Serie temporal de ingresos por mes
+
+Comparativa YoY
+
+Mapa de calor de demanda por hora
+
+Mapa geográfico de pickups
+
+Valor para el portfolio: demuestra que sabes sintetizar y priorizar.
+
+🟦 2. Rides Information (tu pestaña original, pero mejorada)
+Objetivo: análisis profundo de la operación de rides.
+
+KPIs
+Rides por día, semana, mes
+
+Duración promedio del ride
+
+Distancia promedio
+
+Ingresos por ride
+
+Tiempo entre rides (driver idle time)
+
+Visualizaciones
+Heatmap hora vs día
+
+Distribución de duración de rides
+
+Distribución de distancias
+
+Rides por tipo de tarifa (fare_name)
+
+Rides por método de pago
+
+Valor: muestra dominio de análisis operacional.
+
+🟧 3. Drivers Performance
+Objetivo: evaluar la eficiencia y calidad del servicio de los conductores.
+
+KPIs
+Rides por driver
+
+Ingresos por driver
+
+Rating promedio por driver
+
+% de rides cancelados por driver
+
+Tiempo activo vs tiempo inactivo
+
+Visualizaciones
+Ranking de drivers por rides
+
+Ranking de drivers por ingresos
+
+Rating por driver
+
+Distribución de ratings
+
+Comentarios más frecuentes (word cloud)
+
+Valor: demuestra análisis de workforce y calidad del servicio.
+
+🟨 4. Customer Insights
+Objetivo: entender el comportamiento y valor de los clientes.
+
+KPIs
+Nº de clientes recurrentes
+
+Rides por cliente
+
+Revenue por cliente
+
+Customer Lifetime Value (CLV)
+
+% de clientes que usan promociones
+
+Visualizaciones
+Segmentación de clientes (RFM simple)
+
+Distribución de rides por cliente
+
+Distribución de ingresos por cliente
+
+Uso de promociones por segmento
+
+Valor: muestra que sabes analizar comportamiento de usuario.
+
+🟩 5. Financial Dashboard
+Objetivo: análisis económico y de ingresos.
+
+KPIs
+Revenue total
+
+Revenue por mes
+
+Revenue YoY
+
+Revenue por método de pago
+
+Revenue por tipo de tarifa
+
+Impacto de promociones en ingresos
+
+Visualizaciones
+Serie temporal de ingresos
+
+Barras por método de pago
+
+Barras por fare_name
+
+Comparativa rides con vs sin promoción
+
+Margen estimado por ride (si lo quieres simular)
+
+Valor: demuestra capacidad de análisis financiero.
+
+🟦 6. Geospatial Analysis
+Objetivo: análisis geográfico de la operación.
+
+KPIs
+Top zonas de pickup
+
+Top zonas de dropoff
+
+Distancia promedio por zona
+
+Tiempo promedio por zona
+
+Visualizaciones
+Mapa de calor de pickups
+
+Mapa de calor de dropoffs
+
+Clusters de demanda
+
+Rutas más frecuentes (si quieres simularlas)
+
+Valor: análisis avanzado que muy pocos portfolios incluyen.
+
+🟧 BONUS: 7. Promotions & Pricing Analytics
+Objetivo: analizar el impacto de tarifas y promociones.
+
+KPIs
+% rides con promoción
+
+Revenue perdido por descuentos
+
+Tarifa más usada
+
+Tarifa más rentable
+
+Elasticidad de demanda (si quieres simularla)
+
+Visualizaciones
+Barras por fare_name
+
+Comparativa rides con vs sin promo
+
+Revenue por tipo de tarifa
+
+Evolución del uso de promociones
+
+Valor: análisis de pricing, muy atractivo para empresas reales.
+
+🟩 ¿Qué pestañas deberías incluir en tu portfolio?
+Mi recomendación final:
+
+Executive Summary
+
+Rides Information
+
+Drivers Performance
+
+Customer Insights
+
+Financial Dashboard
+
+Geospatial Analysis
+
+Promotions & Pricing Analytics (opcional pero muy potente)
